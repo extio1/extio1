@@ -6,7 +6,8 @@ I'm high course student of CS having experience working in the industry
 
 ```mermaid
 mindmap
-  root((Languages))
+  root((extio1))
+    ((Languages))
       Python
       SQL
       Bash
@@ -14,6 +15,15 @@ mindmap
       C++
       C#
       Java
+    ((Projects))
+      PostreSQL
+      LLVM
+    ((OS))
+      Linux Ubuntu
+    ((Current Interests))
+      Virtual Machines
+      Binary Translation
+      Manage Run-Time Environment
 ```
 
 ### Engineering experience
