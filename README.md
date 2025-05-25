@@ -2,7 +2,7 @@
 
 ### System programming engineer | [NSU](https://english.nsu.ru/) Student
   
-I'm high course student of CS having experience working in the industry
+I'm high course student of CS and have experience of working in the industry
 
 ```mermaid
 mindmap
