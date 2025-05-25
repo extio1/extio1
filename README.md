@@ -16,7 +16,7 @@ mindmap
       C#
       Java
     ((Projects))
-      PostreSQL
+      PostgreSQL
       LLVM
     ((OS))
       Linux Ubuntu
