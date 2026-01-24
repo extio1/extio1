@@ -1,6 +1,6 @@
 # Hi, I'm Timofey Shalnev
 
-### System programming engineer | [NSU](https://english.nsu.ru/) Student
+### System software engineer | [NSU](https://english.nsu.ru/) Student
   
 I'm high course student of CS and have experience of working in the industry
 
