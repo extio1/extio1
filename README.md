@@ -2,7 +2,7 @@
 
 ### System software engineer | [NSU](https://english.nsu.ru/) Student
   
-I'm high course student of CS expertice in the industry
+I'm high course student of CS with the expertice in the industry
 
 ```mermaid
 mindmap
