@@ -1,8 +1,8 @@
 # Hi, I'm Timofey Shalnev
 
-### System software engineer | [NSU](https://english.nsu.ru/) Student
+### System software engineer
   
-I'm high course student of CS with the expertice in the industry
+I'm high course student of MSCS with the expertice in the industry of developing compiler and virtual machines.
 
 ```mermaid
 mindmap
@@ -25,12 +25,3 @@ mindmap
       Binary Translation
       Manage Run-Time Environment
 ```
-
-### Engineering experience
-- Working with [PostgresPro](https://github.com/postgrespro) on a project of fault-tolerance [DB extension](https://github.com/extio1/pg_leader) and [isolating bg worker processes in own cgroup](https://github.com/extio1/pg_isolate)
-- Working on virtual machine project
-### Study experience
-- You can find dozen of project [here](https://github.com/extio1/FIT_NSU3) and [there](https://github.com/extio1/FIT_NSU4)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extio1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
